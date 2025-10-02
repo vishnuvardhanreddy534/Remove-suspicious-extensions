@@ -26,8 +26,3 @@ The objective of this task is to:
 
 ---
 
-## 🧑‍💻 How to Run the Report Generator
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/browser-extension-audit.git
-   cd browser-extension-audit
