@@ -21,8 +21,4 @@ The objective of this task is to:
 
 ## 📂 Repository Contents
 - **/report** → PDF audit report + screenshots  
-- **/guide** → Step-by-step guide and risk documentation  
-- **/scripts** → Python script to auto-generate a PDF report  
-
----
-
+  
